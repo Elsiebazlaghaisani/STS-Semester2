@@ -1,0 +1,120 @@
+*,html, body {
+    margin: 3;
+    padding: 3;
+  }
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 3px solid #ffffff;
+    font-size: 55px;
+  }
+
+  .a{
+    width: 98%;
+    height: 100px;
+    background-color: #9bcf0b;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+   float: left;
+    
+  }
+  
+  .b {
+    width: 47%;
+    height: 100px;
+    background-color: #9bcf0b;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+   float: left;
+  }
+  .c {
+    width: 49%;
+    height: 100px;
+    background-color: #9bcf0b ;
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .d {
+    width: 31%;
+    height: 100px;
+    background-color: #9bcf0b ;
+    float: left; 
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .e {
+    width: 31%;
+    height: 100px;
+    background-color: #9bcf0b ;
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .f {
+    width: 32%;
+    height: 100px;
+    background-color: #9bcf0b ;
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+    
+    .g {
+    width: 23%;
+    height: 100px;
+    background-color: #9bcf0b;
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .h {
+    width: 23%;
+    height: 100px;
+    background-color:#9bcf0b;
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .i {
+    width: 23%;
+    height: 100px;
+    background-color: #9bcf0b ;
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .j {
+    width: 23%;
+    height: 100px;
+    background-color: #9bcf0b;
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }

@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cambria', sans-serif;
+}
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.bg {
+    background-image: url('https://images5.alphacoders.com/589/589333.jpg');
+    background-size: cover;
+    height: 300%;
+
+}
+
+.photo {
+    width: 125px;
+    height: 125px;
+    text-align: center;
+    border: 3px solid white;
+}
+
+.title {
+    color: #0471ff;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.centerbox {
+    margin: 40px;
+    color: white;
+    text-align: center;
+}
+
+
+.txt_field input {
+    width: 30%;
+    padding: 5px;
+    height: 40px;
+    font-size: 17px;
+    border: none;
+    background: white;
+    outline: none;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+
+.pass {
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(0, 5, 31);
+}
+
+.pass a {
+    color: white;
+
+}
+
+h3 {
+    color: white;
+    border: 3px solid white;
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    float: center;
+}
+
+.border {
+    padding: 20px 20px;
+    font-size: 17px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.hire {
+    width: 13%;
+    height: 60px;
+    background: rgb(97, 168, 196);
+    font-size: 18px;
+    color: #e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}

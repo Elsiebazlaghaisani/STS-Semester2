@@ -1,0 +1,67 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Cambria', sans-serif; 
+  }
+  h1{
+    color: rgb(255, 209, 209);
+  }
+  .bg {
+    background-image: url('https://i.pinimg.com/originals/a7/2f/0c/a72f0cdb269a359cfcb7c2edb43b3ef1.jpg'); 
+    background-size: cover; 
+    height: 300%; 
+  
+  }
+  .photo {
+    width: 125px; 
+    height: 125px; 
+    text-align: center; 
+  border-radius: 500%; 
+  }
+  .title {
+    color: #0471ff; 
+    margin: 10px auto; 
+    text-align: center; 
+  }
+  .centerbox {
+    margin: 40px;
+    color:white;
+    text-align: center;
+  }
+
+
+.txt_field input {
+    width: 30%;
+    padding: 5px ;
+    height: 40px;
+    font-size: 17px;
+    border: none;
+    background: white;
+    outline: none;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+input[type="submit"] {
+    width: 30%;
+    height: 50px;
+    background: rgb(27, 14, 14);
+    border-radius: 25px;
+    font-size: 18px;
+    color: #e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+}
+
+.pass {
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(0, 5, 31);
+}
+
+.pass a{
+    color: white;
+
+}
